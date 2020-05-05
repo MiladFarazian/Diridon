@@ -1,4 +1,4 @@
-## Look at Diridon Today
+## Check Out at Diridon Today!
 **This was my first GUI-based app that wasn't made with a team or a game**
 I was inspired by Spotify's recommendations of playlists based on moods and emulated it with this Java project. Contains fixed playlists based on select moods. Let me know if you like it! You can contact me at www.http://miladfarazian.com/contact.html 
 
